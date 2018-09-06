@@ -3,7 +3,7 @@ echo 'begin ...'
 
 git filter-branch --env-filter '
 
-OLD_EMAIL="huixiong.cn@gmail.com"
+OLD_EMAIL="hui.xiong@baozun.com"
 CORRECT_NAME="sp"
 CORRECT_EMAIL="huixiong.cn@gmail.com"
 
